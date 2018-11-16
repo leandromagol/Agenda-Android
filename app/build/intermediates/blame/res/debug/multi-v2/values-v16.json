@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/megatyranosaur/Área de Trabalho/AgendaDeContatos/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/megatyranosaur/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/e86bf587f441a4d7301ad3816f080efc/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/megatyranosaur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1754d52d9a51cba50ef79e5c6687e57b/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1059712874400",
+    "firebase_url": "https://agendadecontatos-29b61.firebaseio.com",
+    "project_id": "agendadecontatos-29b61",
+    "storage_bucket": "agendadecontatos-29b61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059712874400:android:6fc063757f51d04c",
+        "android_client_info": {
+          "package_name": "com.example.megatyranosaur.agendadecontatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059712874400-kko9jlp1lj4b48gl8jolomhtevprd3in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk8sQecrL82EMBMObGGIuFSZfyirfUM_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
